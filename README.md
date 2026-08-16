@@ -1,13 +1,14 @@
 # 🔗 CaothangBaka Link Decoder v4.0
 
 <p align="center">
-  <b>Extension dành cho người lười: Giải mã link bị phá hoặc mã hóa, quét mã QR từ ảnh.</b>
+  <b>Extension Giải mã link bị phá hoặc mã hóa, quét mã QR từ ảnh.</b>
+  <b>(dành cho người thích xin sốt, link, bkabla...)</b>
 </p>
 
 ---
 
 ### ✨ Tính năng
-* 🔗 **Nhận diện URL:** Tự động giải mã link bị phá hoặc mã hóa (`Base64`, `Hex`, `Binary`, `URL Encode`...).
+* 🔗 **Nhận diện URL:** chọn văn bản để giải mã link bị phá hoặc mã hóa (`Base64`, `Hex`, `Binary`, `URL Encode`...).
 * 💾 **Quét mã QR:** Đọc nhanh văn bản hoặc link trực tiếp từ menu chuột phải trên ảnh.
 * 🔢 **Giao diện popup:** Đơn giản, thân thiện, thao tác mở link và copy siêu tốc.
 * 🌐 **Dịch văn bản:** Tích hợp tính năng dịch nhanh nội dung sang tiếng Việt.
