@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Extension Giải mã link bị phá hoặc mã hóa, quét mã QR từ ảnh.</b>
-  <b>(dành cho người thích xin sốt, link, bkabla...)</b>
+  <b>(dành cho người lười giải mã sốt, link trên mạng 🐧)</b>
 </p>
 
 ---
