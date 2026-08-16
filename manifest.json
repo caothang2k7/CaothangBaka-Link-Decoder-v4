@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "CaothangBaka Link Decoder",
+  "version": "4.0",
+  "description": "Giải mã link bị phá hoặc mã hóa, bonus thêm quét mã QR, có sử dụng AI",
+  "permissions": [
+    "contextMenus",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://*/*",
+    "http://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "CaothangBaka Link Decoder"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
